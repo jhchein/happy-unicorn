@@ -1,4 +1,5 @@
 config/
 .env
+reset_temp_sensor.md
 
 .vscode/
